@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256pt" height="256pt" viewBox="0 0 256 256" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="86" y1="17.91756" x2="86" y2="155.531" gradientTransform="matrix(1.488372,0,0,1.488372,0,0)">
+<stop offset="0" style="stop-color:rgb(1.960784%,0.784314%,100%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(1.960784%,0%,100%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="86" y1="48.82381" x2="86" y2="122.76231" gradientTransform="matrix(1.488372,0,0,1.488372,0,0)">
+<stop offset="0" style="stop-color:rgb(45.490196%,44.705882%,100%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(45.098039%,43.921569%,100%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="123.625" y1="34.26563" x2="123.625" y2="61.94419" gradientTransform="matrix(1.488372,0,0,1.488372,0,0)">
+<stop offset="0" style="stop-color:rgb(45.490196%,44.705882%,100%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(45.098039%,43.921569%,100%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface7199943">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 176 228 L 80 228 C 51.328125 228 28 204.671875 28 176 L 28 80 C 28 51.328125 51.328125 28 80 28 L 176 28 C 204.671875 28 228 51.328125 228 80 L 228 176 C 228 204.671875 204.671875 228 176 228 Z M 80 36 C 55.738281 36 36 55.738281 36 80 L 36 176 C 36 200.261719 55.738281 220 80 220 L 176 220 C 200.261719 220 220 200.261719 220 176 L 220 80 C 220 55.738281 200.261719 36 176 36 Z M 80 36 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 128 180 C 99.328125 180 76 156.671875 76 128 C 76 99.328125 99.328125 76 128 76 C 156.671875 76 180 99.328125 180 128 C 180 156.671875 156.671875 180 128 180 Z M 128 92 C 108.152344 92 92 108.152344 92 128 C 92 147.851562 108.152344 164 128 164 C 147.851562 164 164 147.851562 164 128 C 164 108.152344 147.851562 92 128 92 Z M 128 92 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 184 60 C 177.371094 60 172 65.371094 172 72 C 172 78.628906 177.371094 84 184 84 C 190.628906 84 196 78.628906 196 72 C 196 65.371094 190.628906 60 184 60 Z M 184 60 "/>
+</g>
+</svg>
